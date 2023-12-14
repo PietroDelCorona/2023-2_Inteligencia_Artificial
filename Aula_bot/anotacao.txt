@@ -1,0 +1,8 @@
+Canto Superior Esquerdo: Posição do Mouse: (356, 208), RGB: (255, 255, 255)
+
+Canto Superior Direito: Posição do Mouse: (992, 209), RGB: (255, 255, 255)
+
+Canto Inferior Esquerdo: Posição do Mouse: (361, 702), RGB: (255, 255, 255)
+
+# 992 - 356 = 597 (largura)
+# 702 - 209 = 419 (altura)
